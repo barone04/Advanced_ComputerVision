@@ -1,6 +1,11 @@
-# Advanced ComputerVision: Thị Giác Máy Tính Nâng Cao 
+# Advanced Computer Vision: Thị Giác Máy Tính Nâng Cao 
 
-Kho lưu trữ này chứa tất cả các bài tập, thực hành (Lab) và mã nguồn liên quan đến môn học **Thị Giác Máy Tính Nâng Cao (Advanced Computer Vision)** trong chương trình học **2025-2026**.
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Spark](https://img.shields.io/badge/Apache_Spark-3.x-orange)
+![PyTorch](https://img.shields.io/badge/PyTorch-Enabled-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+Chào mừng bạn đến với kho lưu trữ chứa tất cả các bài thực hành (Lab) và mã nguồn (Code) liên quan đến môn học **Thị Giác Máy Tính Nâng Cao (Advanced Computer Vision)** trong chương trình học **2025-2026**.
 
 ---
 
@@ -28,7 +33,7 @@ Kho lưu trữ được tổ chức theo từng chủ đề lớn của môn h�
 | :--- | :--- |
 | `Depth_Estimation` | Các bài tập liên quan đến ước lượng độ sâu (Monocular, Stereo). |
 | `GAN - Generative Adversarial Networks` | Mã nguồn và Lab về các mô hình GAN (CycleGAN, DCGAN, Pix2Pix). |
-| `GraphBase` | Có thể chứa các kiến trúc liên quan đến Graph Neural Networks (GNNs) hoặc cơ sở dữ liệu đồ thị. |
+| `GraphBase` | Chứa các kiến trúc liên quan đến Graph Neural Networks (GNNs) hoặc cơ sở dữ liệu đồ thị. |
 | `ImageCaptioning_With_Attention` | Các mô hình tạo chú thích hình ảnh có sử dụng cơ chế Attention. |
 | `Image_Processing` | Các bài tập cơ bản về xử lý hình ảnh. |
 | `Object_Detection` | Các dự án và thuật toán phát hiện vật thể. |
@@ -111,7 +116,7 @@ Hầu hết các bài tập và Lab được trình bày dưới dạng **Jupyte
 
 ## VII. Tác Giả
 
-  * **Tên:** Phan Đình Thái Bảo
+  * **Tên:** Phan Đinh Thái Bảo
   * **MSV:** 22001547
 
 -----
@@ -122,4 +127,4 @@ Mọi đóng góp nhằm cải thiện mã nguồn, tối ưu hóa hiệu suất
 
 -----
 
-** Kho lưu trữ này phục vụ mục đích giáo dục và nghiên cứu.
+*Kho lưu trữ này phục vụ mục đích giáo dục và nghiên cứu.*
