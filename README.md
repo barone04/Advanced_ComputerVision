@@ -51,7 +51,7 @@ Kho lưu trữ được tổ chức theo từng chủ đề lớn của môn h�
 
 ### 1. Yêu cầu Hệ thống
 
-* **Python:** Phiên bản 3.x (Khuyến nghị 3.8+)
+* **Python:** Phiên bản 3.x (Khuyến nghị 3.10+)
 * **Cuda/CuDNN:** Cần thiết nếu bạn muốn tận dụng GPU cho việc huấn luyện.
 * **IDE/Môi trường:** PyCharm hoặc Jupyter Notebook (vì các tệp chính là `.ipynb`).
 
