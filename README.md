@@ -1,7 +1,6 @@
 # Advanced Computer Vision: Thị Giác Máy Tính Nâng Cao 
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Spark](https://img.shields.io/badge/Apache_Spark-3.x-orange)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Enabled-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
