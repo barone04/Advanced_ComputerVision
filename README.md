@@ -122,7 +122,7 @@ Hầu hết các bài tập và Lab được trình bày dưới dạng **Jupyte
 
 ## VIII. Đóng Góp
 
-Mọi đóng góp nhằm cải thiện mã nguồn, tối ưu hóa hiệu suất, hoặc chỉnh sửa lỗi là rất được hoan nghênh. Vui lòng tạo một **Pull Request** hoặc mở **Issue** trên kho lưu trữ này.
+Mọi đóng góp nhằm cải thiện mã nguồn, tối ưu hóa hiệu suất, hoặc chỉnh sửa lỗi là rất được hoan nghênh. Vui lòng tạo một **Pull Request** hoặc mở **Issue** trên kho lưu trữ này
 
 -----
 
